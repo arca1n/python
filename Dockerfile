@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM scaleway/image-ubuntu/14.04
 
 # Install Python.
 RUN \
