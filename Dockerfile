@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM scaleway/image-ubuntu/14.04
+FROM scaleway/ubuntu
 
 # Install Python.
 RUN \
