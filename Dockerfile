@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM scaleway/ubuntu
+FROM armv7/armhf-ubuntu
 
 # Install Python.
 RUN \
